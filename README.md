@@ -27,3 +27,24 @@ Ce projet implémente un chatbot utilisant la technique RAG (Retrieval Augmented
 ## Installation
 
 1. **Cloner le repository**
+
+## Test du Projet
+
+### Option 1 : Test avec votre compte Google
+
+Pour tester avec votre propre compte Google, envoyez votre adresse email à : samy.hamlat01@gmail.com
+Je vous ajouterai comme utilisateur test dans la console Google Cloud.
+
+### Option 2 : Test avec les credentials fournis
+
+1. Utilisez les credentials de test fournis par email
+2. Placez le fichier `credentials.json` dans le dossier du projet
+3. Les documents de test sont déjà présents dans le dossier Drive associé
+
+### Démonstration Vidéo
+
+Une démonstration vidéo du fonctionnement est disponible ici : [https://drive.google.com/drive/folders/1rEyCe_fqMlUGCqN6SL2vz5X8Zz_VpsiQ?usp=sharing]
+
+- Comparaison RAG vs Non-RAG
+- Test avec différentes températures
+- Exemple de questions/réponses
